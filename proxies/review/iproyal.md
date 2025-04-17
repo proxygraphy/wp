@@ -9,23 +9,25 @@ Ready to see if IPRoyal is right for you? Let's dive in.
 
 ## ✨What is IPRoyal?
 
+[![IProyal homepage](https://raw.githubusercontent.com/proxygraphy/wp/refs/heads/main/proxies/review/media/iproyal-homepage-thumbnail.png)](https://proxygraphy.com/aff/iproyal)
+
 | Feature | Details |
-| --- | --- |
+| :--- | :--- |
 | **Company Name** | IPRoyal |
 | **Official Website** | [https://iproyal.com](https://iproyal.com/) |
-| **Proxy Types Offered** | - Residential- Mobile- Datacenter- Static Residential |
+| **Proxy Types Offered** | 'Residential', 'Mobile', 'Datacenter', 'Static Residential' |
 | **Protocols Supported** | HTTP, HTTPS, SOCKS5 |
 | **Authentication Methods** | IP Whitelisting, Username:Password |
 | **Geo-Targeting** | Country-level (State/City targeting for Residential & Mobile) |
-| **Rotation Options** | - Sticky sessions- Rotating proxies |
+| **Rotation Options** | 'Sticky sessions', 'Rotating proxies' |
 | **Concurrent Connections** | Unlimited (depends on plan type) |
-| **IP Pool Size** | 2M+ Residential IPs (Dynamic)Thousands of Static & Mobile IPs |
+| **IP Pool Size** | '2M+ Residential IPs (Dynamic)', 'Thousands of Static & Mobile IPs' |
 | **Session Control** | Supported (sticky sessions up to 24 hours on some plans) |
-| **Use Case Suitability** | - Web scraping- Ad verification- Market research- Streaming- Social media automation |
+| **Use Case Suitability** | 'Web scraping', 'Ad verification', 'Market research', 'Streaming', 'Social media automation' |
 | **Dashboard & API Access** | Yes (User-friendly dashboard + API integration support) |
-| **Pricing Structure** | Pay-as-you-go (Residential & Mobile)Monthly/GB-based for others |
+| **Pricing Structure** | 'Pay-as-you-go (Residential & Mobile)', 'Monthly/GB-based for others' |
 | **Free Trial** | No free trial, but affordable entry-level pricing |
-| **Customer Support** | Live chat, Email support |
+| **Customer Support** | 'Live chat', 'Email support' |
 | **Uptime & Performance** | 99.9% uptime, high-speed residential proxies |
 | **Refund Policy** | 24-hour refund for unused traffic (for eligible plans) |
 
@@ -112,9 +114,13 @@ When it comes to pricing, IPRoyal adopts a flexible approach. Instead of a one-s
 
 ### 1. Residential Proxies
 
+[![IProyal Residential Proxy Pricing](https://raw.githubusercontent.com/proxygraphy/wp/refs/heads/main/proxies/review/media/iproyal-residential-proxy-pricing.png)](https://proxygraphy.com/aff/iproyal)
+
 These proxies are billed based on the amount of data used, with prices typically starting from a few dollars per gigabyte.
 
 This pay-as-you-go model is ideal for individuals or businesses with fluctuating needs, as it ensures you only pay for what you use.
+
+[![IProyal button](https://raw.githubusercontent.com/proxygraphy/wp/refs/heads/main/proxies/review/media/iproyal-button.png)](https://proxygraphy.com/aff/iproyal)
 
 ### 2. Datacenter Proxies
 
@@ -125,6 +131,8 @@ The pricing for these proxies is usually based on the number of IPs or the bandw
 ### 3. Mobile Proxies
 
 Given their premium features, mobile proxies tend to be priced higher. However, IPRoyal strives to keep rates reasonable, with plans that cater to those requiring mobile IPs for specific tasks, such as social media management or ad verification.
+
+[![IProyal button](https://raw.githubusercontent.com/proxygraphy/wp/refs/heads/main/proxies/review/media/iproyal-button.png)](https://proxygraphy.com/aff/iproyal)
 
 ## ✔IPRoyal Pros:
 
@@ -173,8 +181,6 @@ Just enter the code during checkout, and your discount will be applied instantly
 **A.** IPRoyal allows testing and offers detailed documentation so you can verify proxy performance before deploying them at scale.
 
 ## 👍Final Thoughts:
-
-.
 
 Whether you're a solo user looking to stay anonymous online or a business that relies on large-scale data extraction, **IPRoyal delivers flexible proxy solutions** built to handle diverse demands.
 
