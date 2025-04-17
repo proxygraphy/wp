@@ -1,6 +1,4 @@
-# What is ProxyGraphy
-
-# 🔍 What is ProxyGraphy?
+# What is ProxyGraphy?
 
 **ProxyGraphy** is a professional platform dedicated to simplifying everything about proxies — from detailed provider reviews to hands-on tutorials and real-world use cases. Whether you're a **media buyer**, **web scraper**, **ad verifier**, or **social media manager**, ProxyGraphy helps you choose and use the right proxies with confidence.
 
