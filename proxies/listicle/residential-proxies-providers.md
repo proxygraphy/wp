@@ -1,6 +1,6 @@
 ---
-[//]: # (Title: Cheapest Residential Proxies Providers in 2025 and Beyond)
-[//]: # (Description: Looking for the cheapest residential proxies in 2025? Whether you're into web scraping, sneaker copping, social media automation, or ad verification, residential proxies are essential for anonymity and reliable IP rotation.)
+title: Cheapest Residential Proxies Providers in 2025 and Beyond
+description: Looking for the cheapest residential proxies in 2025? Whether you're into web scraping, sneaker copping, social media automation, or ad verification, residential proxies are essential for anonymity and reliable IP rotation.
 ---
 
 # Cheapest Residential Proxies Providers in 2025 and Beyond
